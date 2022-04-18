@@ -301,6 +301,9 @@ a {
 	margin-right: -2px;
 	
 }
+#project-title {
+  color:#F3A847;
+}
 
 .navActive {
   color: var(--secondary);

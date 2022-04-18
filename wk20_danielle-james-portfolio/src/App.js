@@ -20,7 +20,7 @@ function App() {
   
 
   const renderPage = () => {
-    if (currentCategory.name=== 'About') {
+    if (currentCategory.name === 'About') {
       return <About />;
     }
 
