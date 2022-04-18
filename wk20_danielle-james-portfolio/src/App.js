@@ -3,7 +3,7 @@ import Nav from './components/Nav';
 import About from './components/About';
 import Portfolio from './components/Portfolio';
 import Resume from './components/Resume';
-import Contact from './components/Contact';
+import ContactForm from './components/ContactForm';
 import Footer from './components/Footer';
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
 
     {name: "About"},
     {name: "Portfolio"},
-    {name: "Contact"},
+    {name: "ContactForm"},
     {name: "Resume"}
   ]);
 
@@ -28,13 +28,14 @@ function App() {
       return <Portfolio />;
     }
 
-    if(currentCategory.name === 'Contact') {
-      return <Contact />;
+    if(currentCategory.name === 'ContactForm') {
+      return <ContactForm />;
     }
 
     if(currentCategory.name === 'Resume') {
       return <Resume />;
     }
+    
   }
   console.log(currentCategory.name);
 
