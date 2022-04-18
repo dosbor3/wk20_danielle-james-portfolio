@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/wk20_danielle-james-portfolio/static/css/main.f0fe9ecf.css",
-    "main.js": "/wk20_danielle-james-portfolio/static/js/main.c993567e.js",
+    "main.css": "/wk20_danielle-james-portfolio/static/css/main.7f662e43.css",
+    "main.js": "/wk20_danielle-james-portfolio/static/js/main.12cd201f.js",
     "static/js/787.1e12ad55.chunk.js": "/wk20_danielle-james-portfolio/static/js/787.1e12ad55.chunk.js",
     "static/media/devPhoto.jpg": "/wk20_danielle-james-portfolio/static/media/devPhoto.ab01930e4348c2ec16dd.jpg",
     "static/media/1.png": "/wk20_danielle-james-portfolio/static/media/1.90399a44edc3c55bb311.png",
     "static/media/4.png": "/wk20_danielle-james-portfolio/static/media/4.f5b3dfcf8b4001a07a0e.png",
     "static/media/2.png": "/wk20_danielle-james-portfolio/static/media/2.1f014059a974c00caa32.png",
     "static/media/3.png": "/wk20_danielle-james-portfolio/static/media/3.04b1c5ac1f8649606fa3.png",
+    "static/media/gitHub.jpg": "/wk20_danielle-james-portfolio/static/media/gitHub.76fa712953afcb37a753.jpg",
     "index.html": "/wk20_danielle-james-portfolio/index.html",
-    "main.f0fe9ecf.css.map": "/wk20_danielle-james-portfolio/static/css/main.f0fe9ecf.css.map",
-    "main.c993567e.js.map": "/wk20_danielle-james-portfolio/static/js/main.c993567e.js.map",
+    "main.7f662e43.css.map": "/wk20_danielle-james-portfolio/static/css/main.7f662e43.css.map",
+    "main.12cd201f.js.map": "/wk20_danielle-james-portfolio/static/js/main.12cd201f.js.map",
     "787.1e12ad55.chunk.js.map": "/wk20_danielle-james-portfolio/static/js/787.1e12ad55.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0fe9ecf.css",
-    "static/js/main.c993567e.js"
+    "static/css/main.7f662e43.css",
+    "static/js/main.12cd201f.js"
   ]
 }
