@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Resume() {
+function Resume(props) {
     return (
         <section>
             <h1>This is the Resume Component</h1>
