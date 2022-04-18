@@ -51,7 +51,7 @@ function Portfolio(props) {
                 <img
                     src={img1}
                     alt={project.name}
-                    className="img-thumbnail mx-1"
+                    className='img-thumbnail mx-1'
                     key={project.name}
                 />
             </div>

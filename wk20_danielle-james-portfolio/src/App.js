@@ -24,16 +24,19 @@ function App() {
       return <About />;
     }
 
-    if(currentCategory.name === 'Portfolio') {
+    else if(currentCategory.name === 'Portfolio') {
       return <Portfolio />;
     }
 
-    if(currentCategory.name === 'ContactForm') {
+    else if(currentCategory.name === 'ContactForm') {
       return <ContactForm />;
     }
 
-    if(currentCategory.name === 'Resume') {
+    else if(currentCategory.name === 'Resume') {
       return <Resume />;
+    }
+    else {
+      return <About />
     }
     
   }
