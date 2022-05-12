@@ -52,7 +52,7 @@ function Portfolio(props) {
             <p>gitHub Link: <a href={project.gitHub}>{project.gitHub}</a></p>
             <div className="flex-row">
                 <img
-                    src={projects.src}
+                    src={project.src}
                     alt={project.name}
                     className='img-thumbnail mx-1'
                     key={project.name}
